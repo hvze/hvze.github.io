@@ -3,7 +3,7 @@ title: intergalactic programming
 name: haze
 email: admin@haze.pw
 description: Yet Another Programming Blog
-baseurl: “/blog”
+baseurl: “”
 url: https://haze.pw
 twitter_username:
 github_username:
