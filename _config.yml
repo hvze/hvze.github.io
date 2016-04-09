@@ -2,9 +2,9 @@
 title: intergalactic programming
 name: haze
 email: admin@haze.pw
-description: > Yet Another Programming Blog
-baseurl: “/blog” # the subpath of your site, e.g. /blog
-url: "https://haze.pw” # the base hostname & protocol for your site
+description: Yet Another Programming Blog
+baseurl: “/blog”
+url: https://haze.pw
 twitter_username:
 github_username:
 disqus_username:
